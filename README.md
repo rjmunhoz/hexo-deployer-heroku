@@ -7,6 +7,8 @@
 
 Heroku deployer plugin for [Hexo].
 
+> This fork does not ignore hidden files
+
 ## Installation
 
 ``` bash

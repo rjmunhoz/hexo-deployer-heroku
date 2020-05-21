@@ -1,7 +1,7 @@
 {
-  "name": "hexo-deployer-heroku",
+  "name": "hexo-deployer-heroku-hidden",
   "version": "0.1.2",
-  "description": "Heroku deployer plugin of Hexo.",
+  "description": "Heroku deployer plugin of Hexo. Fork of hexo-deployer-heroku-hidden",
   "main": "index",
   "scripts": {
     "eslint": "eslint .",
